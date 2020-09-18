@@ -17,7 +17,7 @@
 |Day 08 : Dictionaries and Maps| [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_08_Dictionaries_and_maps.java)|
 |Day 09 : Recursion | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_09_Recursion.java)|
 |                   |                                                              |
-|                   |                                                              |
+|Day 11 : 2D Arrays | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_11_2D_array.java) |
 |                   |                                                              |
 |                   |                                                              |
 |                   |                                                              |
