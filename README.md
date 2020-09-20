@@ -19,7 +19,7 @@
 |                   |                                                              |
 |Day 11 : 2D Arrays | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_11_2D_array.java) |
 |                   |                                                              |
-|                   |                                                              |
+| Day 13 : Abstract Classes | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_13_Abstract_classes.java) |
 |                   |                                                              |
 |                   |                                                              |
 |                   |                                                              |
