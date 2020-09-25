@@ -23,7 +23,7 @@
 | Day 14 : Scope    | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_14_Scope.java) |
 |                   |                                                              |
 | Day 16 : Exception - String to int| [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_16_Exception_String_to_int.java)|
-|                   |                                                              |
+| Day 17 : More Exception| [Solution]()|
 |                   |                                                              |
 |                   |                                                              |
 |                   |                                                              |
