@@ -25,8 +25,8 @@
 | Day 16 : Exception - String to int| [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_16_Exception_String_to_int.java)|
 | Day 17 : More Exception| [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_17_More_Exception.java)|
 | Day 18 : Queues and Stacks | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_18_Queues_And_Stacaks.java)|
-| Day 19 : Interfaces|  [solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_19_Interfaces.java) |
-|  |                                                              |
+| Day 19 : Interfaces|  [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_19_Interfaces.java) |
+| Day 20 : Sorting  | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_20_Sorting.java) |
 |                   |                                                              |
 |                   |                                                              |
 |                   |                                                              |
