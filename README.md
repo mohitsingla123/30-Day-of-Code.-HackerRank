@@ -27,7 +27,7 @@
 | Day 18 : Queues and Stacks | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_18_Queues_And_Stacaks.java)|
 | Day 19 : Interfaces|  [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_19_Interfaces.java) |
 | Day 20 : Sorting  | [Solution](https://github.com/mohitsingla123/30-Day-of-Code.-HackerRank/blob/master/Day_20_Sorting.java) |
-|                   |                                                              |
+| Daya 21        :  | [Solution]()                                                              |
 |                   |                                                              |
 |                   |                                                              |
 |                   |                                                              |
